@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #b3dbff;
+}
+
+.avatar {
+    background-color: #c5e7ff;
+    border-radius: 100px;
+}
+
+
+.card_perfil {
+    padding: 28px 20px;
+    text-align: center;
+    background-color: white;
+    padding: 18px;
+    border-radius: 20px;
+    width: 300px;
+    box-shadow: 0px 1px 1px #000;
+}
+
+.profissao {
+    margin-top: 10px;
+    color: gray;
+
+}
+
+.card {
+    border-radius: 15px;
+    padding: 5px;
+}
+
+#card_html {
+    background-color: #ffb3b3;
+    color: red;
+}
+
+#card_css {
+    background-color: #b9d5f8;
+    color: blue;
+}
+
+#card_git {
+    background-color: #ffe4b3;
+    color: #e69500;
+}
+
+.senai {
+    color: blue;
+    text-decoration: underline;
+}
+
+.status {
+    background-color: #bdf5bd;
+    color: #1ec81e;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.cards {
+    margin-top: 25px;
+}
+
+.bio {
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
